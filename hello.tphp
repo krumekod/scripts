@@ -1,0 +1,7 @@
+<?php
+
+wait(2000);
+say("Guess what?", array("voice" => "kate"));
+call("+14257491409");
+
+?>
